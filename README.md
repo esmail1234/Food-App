@@ -51,11 +51,11 @@ We've packed this app with everything you need:
 
 ## 📸 Screenshots
 
-| **Home Screen** | **Categories** | **Meal Details** |
+| **Splash Screen** | **Home Screen** | **Meal** |
 |:---:|:---:|:---:|
 | ![Home](assets/screenshots/1.png) | ![Categories](assets/screenshots/2.png) | ![Details](assets/screenshots/3.png) |
 
-| **Menu** | **Filters** | **Favorites** |
+| **Meal Details** | **Order Summary** | **Checkout** |
 |:---:|:---:|:---:|
 | ![Screen 4](assets/screenshots/4.png) | ![Screen 5](assets/screenshots/5.png) | ![Screen 6](assets/screenshots/6.png) |
 
